@@ -3,7 +3,7 @@ title: 积木好课原创AutoCAD三维建模全套视频教程
 meta_title: "积木好课原创AutoCAD三维建模全套视频教程"
 description: "积木好课原创AutoCAD三维建模全套视频教程"
 date: 2026-04-01T05:00:00Z
-image: "/images/posts/02.jpg"
+image: "https://images.unsplash.com/photo-1769147339214-076740872485?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 categories: ["AutoCAD课程"]
 authors: ["积木好课"]
 tags: ["AutoCAD", "CAD三维建模", "CAD视频教程"]
