@@ -5,7 +5,6 @@ date: 2026-04-10
 description: 进阶高级渲染的朋友，全网唯一CAD渲染全套体系教程。
 tags: ["AutoCAD教程", "CAD二维"]
 categories: ["AutoCAD课程""]
-pinned: true
 authors: ["积木好课""]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E6%B8%B2%E6%9F%93%E8%AF%BE%E7%A8%8B.webp"

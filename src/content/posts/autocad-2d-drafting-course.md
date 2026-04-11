@@ -5,7 +5,6 @@ date: 2026-04-10
 description: 积木好课原创CAD系统教程的零基础到二维制图全套。适合零基础开始学习的朋友，全面的二维制图教程。
 tags: ["AutoCAD教程", "CAD二维"]
 categories: ["AutoCAD课程"]
-pinned: true
 authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.webp"

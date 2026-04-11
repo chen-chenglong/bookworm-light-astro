@@ -7,7 +7,6 @@ tags: ["学习服务", "积木好课"]
 categories: ["学习服务"]
 authors: ["积木好课"]
 draft: false
-pinned: true
 image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---
 
