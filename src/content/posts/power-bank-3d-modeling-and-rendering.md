@@ -4,8 +4,8 @@ meta_title: "AutoCAD产品建模Anker充电宝三维建模和渲染全流程"
 date: 2026-04-09
 description: 本案例为使用AutoCAD产品建模，以Anker充电宝为例，展示了AutoCAD三维建模和渲染全流程。
 tags: ["AutoCAD教程", "三维建模"]
-categories: ["项目案例""]
-authors: ["积木好课""]
+categories: ["项目案例"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E5%85%85%E7%94%B5%E5%AE%9D%E5%BB%BA%E6%A8%A1.webp"
 ---

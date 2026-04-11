@@ -4,8 +4,8 @@ meta_title: "铁艺铝艺大门订制AutoCAD三维建模与渲染全流程"
 date: 2026-04-08
 description: 铁艺、铝艺大门的加工订制，使用AutoCAD进行设计，并且进行三维建模与产品效果渲染的全流程。
 tags: ["AutoCAD教程", "三维建模"]
-categories: ["项目案例""]
-authors: ["积木好课""]
+categories: ["项目案例"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E9%93%81%E8%89%BA%E5%A4%A7%E9%97%A8%E5%BB%BA%E6%A8%A1.webp"
 ---

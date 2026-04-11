@@ -4,8 +4,8 @@ meta_title: "全网最全AutoCAD字体大全彻底解决shx字体缺失问题"
 date: 2026-04-10
 description: 纯手工整理超2000多个shx字体，删除错误和无法使用的字体，保留正确可以识别的shx字体，CAD工作必备，彻底解决AutoCAD字体缺失问题。
 tags: ["CAD字体", "shx字体"]
-categories: ["技术文档""]
-authors: ["积木好课""]
+categories: ["技术文档"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E5%AD%97%E4%BD%93%E4%B8%8B%E8%BD%BD.webp"
 ---

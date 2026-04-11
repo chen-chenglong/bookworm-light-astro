@@ -4,8 +4,8 @@ meta_title: "黑胡桃茶几AutoCAD家具三维建模和渲染全流程"
 date: 2026-04-10
 description: 提示CAD许可无效，解决您的AutoCAD许可证无效Nonvalid software detected license is not valid的问题。
 tags: ["AutoCAD教程", "CAD许可"]
-categories: ["技术文档""]
-authors: ["积木好课""]
+categories: ["技术文档"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93.webp"
 ---

@@ -5,8 +5,8 @@ date: 2025-05-01
 description: '全面讲授了基本设置部分，包含图层、图框、文字样式；计算机二维绘图考核的重难点、零件图的拆画和抄画、手工绘图的三视图绘制规范。'
 image: ''
 tags: ["CAD四级认证", "CAD课程", "CAD机械"]
-categories: ["'AutoCAD课程'""]
-authors: ["积木好课""]
+categories: ["AutoCAD课程"]
+authors: ["积木好课"]
 draft: false 
 ---
 

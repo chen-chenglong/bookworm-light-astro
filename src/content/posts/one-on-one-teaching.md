@@ -4,8 +4,8 @@ meta_title: "积木好课一对一定制辅导与教学服务"
 date: 2026-04-08
 description: 根据您的技术需求，一对一进行定制内容辅导与教学，快速解决疑难问题、快速上手项目。
 tags: ["一对一教学", "定制服务"]
-categories: ["学习服务""]
-authors: ["积木好课""]
+categories: ["学习服务"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E4%B8%80%E5%AF%B9%E4%B8%80%E8%BE%85%E5%AF%BC.webp"
 ---

@@ -4,8 +4,8 @@ meta_title: "AutoCAD三维仓库货架流利架建模和渲染全流程"
 date: 2026-04-10
 description: 使用AutoCAD依据二维精确的尺寸设计进行三维仓库货架和流利架等结构的三维建模和渲染全流程案例。
 tags: ["AutoCAD教程", "三维建模"]
-categories: ["项目案例""]
-authors: ["积木好课""]
+categories: ["项目案例"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E4%BB%93%E5%BA%93%E8%B4%A7%E6%9E%B6%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp"
 ---

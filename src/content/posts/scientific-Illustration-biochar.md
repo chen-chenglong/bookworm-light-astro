@@ -4,8 +4,8 @@ meta_title: "科研配图biochar期刊Top一区中科院已发表"
 date: 2026-04-08
 description: 中科院烟草所的科研配图工作：绘制biochar常用的土壤修饰机理、耕作方式等。
 tags: ["科研绘图", "中科院"]
-categories: ["项目案例""]
-authors: ["积木好课""]
+categories: ["项目案例"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E7%A7%91%E7%A0%94%E7%BB%98%E5%9B%BE.webp"
 ---

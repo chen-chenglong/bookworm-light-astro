@@ -4,8 +4,8 @@ meta_title: "使用AutoCAD三维建模不锈钢水槽和渲染产品图"
 date: 2026-04-09
 description: 本案例为使用AutoCAD进行水槽的产品设计，三维建模不锈钢水槽，并且渲染出产品图的全流程技术案例，用于机械设备加工等相关行业的参考。
 tags: ["AutoCAD教程", "三维建模"]
-categories: ["项目案例""]
-authors: ["积木好课""]
+categories: ["项目案例"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E6%B0%B4%E6%A7%BD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1.webp"
 ---

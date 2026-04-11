@@ -4,8 +4,8 @@ meta_title: "AutoCAD自定义线型创建自己特有的线型"
 date: 2026-04-09
 description: AutoCAD 默认线型不够用？教你用原生功能自定义特殊线型，无需插件！从绘制线型单元到创建加载新线型，步骤清晰，还附带详细视频教程，高效解决线型需求。
 tags: ["AutoCAD教程", "三维建模"]
-categories: ["技术文档""]
-authors: ["积木好课""]
+categories: ["技术文档"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E8%87%AA%E5%AE%9A%E4%B9%89cad%E7%BA%BF%E5%9E%8B.webp"
 ---
