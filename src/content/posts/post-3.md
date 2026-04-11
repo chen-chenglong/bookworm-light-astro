@@ -1,11 +1,11 @@
 ---
 title: What you need to know about Photography
-meta_title: ""
+meta_title: "What you need to know about Photography"
 description: "meta description"
 date: 2025-04-03T06:00:00+00:00
 image: "/images/posts/03.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["积木好课"]
 tags: ["diy", "toy"]
 draft: false
 ---
