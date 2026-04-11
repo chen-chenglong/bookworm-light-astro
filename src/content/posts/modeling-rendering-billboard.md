@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93.webp"
 ---
+
 本案例为AutoCAD在店招牌、公交站广告牌的建模和渲染全流程技术项目，本项目为学员自有项目，版权归学员所有。
 
 ### 三维建模
@@ -17,7 +18,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A
 
 三维建模后的框架如下：
 
-![广告牌三维建模和渲染](https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(3).webp)
+![广告牌三维建模和渲染](<https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(3).webp>)
 
 广告牌三维建模和渲染
 
@@ -27,7 +28,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A
 
 渲染好的效果如下：
 
-![广告牌三维建模和渲染](https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(2).webp)
+![广告牌三维建模和渲染](<https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(2).webp>)
 
 广告牌三维建模和渲染
 
@@ -35,7 +36,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A
 
 客户提供的真实场景的参照如下：
 
-![广告牌三维建模和渲染](https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(1).webp)
+![广告牌三维建模和渲染](<https://cdn.jimuhaoke.com/2025/%E5%B9%BF%E5%91%8A%E7%89%8C%E5%BB%BA%E6%A8%A1%E6%B8%B2%E6%9F%93%20(1).webp>)
 
 广告牌三维建模和渲染
 

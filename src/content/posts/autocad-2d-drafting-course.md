@@ -9,13 +9,14 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.webp"
 ---
+
 ## 积木好课AutoCAD零基础二维制图全套系统课
 
 **建筑 / 机械 / 家具 / 室内外装修多行业通用系统课**
 
- Autodesk认证讲师 · 13年CAD技术服务 · 研究生学历
+Autodesk认证讲师 · 13年CAD技术服务 · 研究生学历
 
-**`录播教学` `下单即学` `终身有效`  `真人答疑`** 
+**`录播教学` `下单即学` `终身有效` `真人答疑`**
 
 ---
 

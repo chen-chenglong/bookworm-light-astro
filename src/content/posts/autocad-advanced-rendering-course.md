@@ -4,11 +4,12 @@ meta_title: "积木好课原创AutoCAD视频教程高级渲染"
 date: 2026-04-10
 description: 进阶高级渲染的朋友，全网唯一CAD渲染全套体系教程。
 tags: ["AutoCAD教程", "CAD二维"]
-categories: ["AutoCAD课程""]
-authors: ["积木好课""]
+categories: ["AutoCAD课程"]
+authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E6%B8%B2%E6%9F%93%E8%AF%BE%E7%A8%8B.webp"
 ---
+
 原创AutoCAD字典式详解视频教程第三部分：高级渲染课程
 
 ## 课程特点：

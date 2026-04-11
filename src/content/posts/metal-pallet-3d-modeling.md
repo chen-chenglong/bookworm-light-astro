@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E6%89%98%E7%9B%98%E5%BB%BA%E6%A8%A1.webp?t=26038a76-1258-80da-8b80-f438ca40ea37"
 ---
+
 本案例是使用AutoCAD对金属不锈钢托盘三维建模和渲染，以及对产品施工图绘制三视图、剖面图等供加工使用。这是在第29期AutoCAD直播中详解的一个案例。
 
 ### 知识点：
@@ -42,7 +43,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E6%89%98%E7%9B%98%E5%B
 
 中间的空洞使用等分和阵列，然后差集打孔一次成型。
 
-![金属不锈钢托盘建模和渲染练习](https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E4%B8%8D%E9%94%88%E9%92%A2%E6%89%98%E7%9B%98%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93%E7%BB%83%E4%B9%A0%20(2).webp)
+![金属不锈钢托盘建模和渲染练习](<https://cdn.jimuhaoke.com/2025/%E9%87%91%E5%B1%9E%E4%B8%8D%E9%94%88%E9%92%A2%E6%89%98%E7%9B%98%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93%E7%BB%83%E4%B9%A0%20(2).webp>)
 
 金属不锈钢托盘建模和渲染练习
 

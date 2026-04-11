@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E6%9C%BA%E6%A2%B0%E7%88%AA%E5%BB%BA%E6%A8%A1.webp"
 ---
+
 这是一个从零开始的完整三维建模流程，是之前VIP直播课的一个案例，在大家的强烈要求下开发录制为视频课程。旨在帮助大家梳理AutoCAD三维建模工作流，训练常用三维建模工具在日常项目中的应用，并且补充了一种全新的渲染方式。适合学习AutoCAD机械三维建模的学员。
 
 ![AutoCAD三维机械建模](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E5%BB%BA%E6%A8%A1.webp)

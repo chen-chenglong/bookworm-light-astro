@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E8%BF%9C%E7%A8%8B%E5%8D%8F%E5%8A%A9.webp"
 ---
+
 远程服务在有限的时间内，可以快速解决问题，节约时间，可以1对1教学、疑难答疑、软件安装等服务。
 
 ### 第一步：预先付费

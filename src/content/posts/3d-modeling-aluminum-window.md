@@ -9,11 +9,12 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E5%BB%BA%E6%A8%A1.webp"
 ---
+
 本案例为AutoCAD定制课程学员李燕提供技术文档，在此特别感谢。使用场景就是产品的电商宣传图，用于电商平台的主图和详情页宣传，因此各类产品均需要建模和渲染，在直播课全程操作流程如下。
 
 首先上最终的建模和渲染后的效果：
 
-![铝合金窗三维建模](https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(2).webp)
+![铝合金窗三维建模](<https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(2).webp>)
 
 铝合金窗三维建模
 
@@ -21,7 +22,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E5%B
 
 首先我们从40多款产品中选择一个稍微复杂的作为直播演示案例，相对简单的流程是一样的。
 
-![铝合金窗三维建模](https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(1).png)
+![铝合金窗三维建模](<https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(1).png>)
 
 铝合金窗三维建模
 
@@ -43,7 +44,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E5%B
 
 完成后三维结构如下：
 
-![铝合金窗三维建模](https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(1).webp)
+![铝合金窗三维建模](<https://cdn.jimuhaoke.com/2025/%E9%93%9D%E5%90%88%E9%87%91%E7%AA%97%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%20(1).webp>)
 
 铝合金窗三维建模
 

@@ -9,9 +9,10 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E5%AE%A4%E5%86%85%E8%A3%85%E4%BF%AE%E6%A5%BC%E6%A2%AF%E5%BB%BA%E6%A8%A1.webp"
 ---
+
 本案例是针对学员室内装修楼梯的设计和施工进行的一个案例，Ins风格我自己也很喜欢，下图是从零开始是建模-渲染-后期的全流程后的渲染图，效果非常不错，因此把这个案例作为保留。
 
-![**AutoCAD建筑类室内楼梯**](https://cdn.jimuhaoke.com/2025/AutoCAD%E5%BB%BA%E7%AD%91%E7%B1%BB%E5%AE%A4%E5%86%85%E6%A5%BC%E6%A2%AF%20(1).webp)
+![**AutoCAD建筑类室内楼梯**](<https://cdn.jimuhaoke.com/2025/AutoCAD%E5%BB%BA%E7%AD%91%E7%B1%BB%E5%AE%A4%E5%86%85%E6%A5%BC%E6%A2%AF%20(1).webp>)
 
 **AutoCAD建筑类室内楼梯**
 
@@ -32,7 +33,7 @@ image: "https://cdn.jimuhaoke.com/2025/%E5%AE%A4%E5%86%85%E8%A3%85%E4%BF%AE%E6%A
 
 建模效果如下：
 
-![**AutoCAD建筑类室内楼梯**](https://cdn.jimuhaoke.com/2025/AutoCAD%E5%BB%BA%E7%AD%91%E7%B1%BB%E5%AE%A4%E5%86%85%E6%A5%BC%E6%A2%AF%20(2).webp)
+![**AutoCAD建筑类室内楼梯**](<https://cdn.jimuhaoke.com/2025/AutoCAD%E5%BB%BA%E7%AD%91%E7%B1%BB%E5%AE%A4%E5%86%85%E6%A5%BC%E6%A2%AF%20(2).webp>)
 
 **AutoCAD建筑类室内楼梯**
 

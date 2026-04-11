@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/camtasia%E4%B8%8B%E8%BD%BD.webp"
 ---
+
 自用的techsmith camtasia2025下载和安装教程，做个备份。
 
 1、下载完整安装包并解压，获得如下两个文件

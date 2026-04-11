@@ -9,6 +9,7 @@ authors: ["积木好课""]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E5%BC%95%E5%AF%BC%E6%A1%88%E4%BE%8B.webp"
 ---
+
 为了帮助零基础的学员快速入门三维建模，本案例为AutoCAD三维建模快速入门演示，是CAD三维建模课程的引导案例，帮助零基础学员快速感受建模全流程。
 
 免费观看地址(扫码登录淘宝)：

@@ -9,13 +9,14 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%E5%BB%BA%E6%A8%A1.webp"
 ---
+
 这个案例是AutoCAD第29期直播课一名澳大利亚的学员找到的一个网络案例，原站点需要科学上网，我就下载原图在国内演示了一下，整体难度不大就是细节满满，对初学者到中级进阶的很有帮助。
 
 本案例使用AutoCAD对机械零件三维建模及渲染和尺寸图排版全流程技术，解决机械设计全流程的所有技术。
 
 先展示完成后的效果：
 
-![AutoCAD三维机械零件](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(1).webp)
+![AutoCAD三维机械零件](<https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(1).webp>)
 
 AutoCAD三维机械零件
 
@@ -41,7 +42,7 @@ AutoCAD外部参照丢失如何恢复？
 
 三维建模完成后如下所示：
 
-![AutoCAD三维机械零件](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(3).webp)
+![AutoCAD三维机械零件](<https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(3).webp>)
 
 AutoCAD三维机械零件
 
@@ -49,7 +50,7 @@ AutoCAD三维机械零件
 
 整个三维零件只有一个材质，比较方便渲染，渲染后效果如下图：
 
-![AutoCAD三维机械零件](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(2).webp)
+![AutoCAD三维机械零件](<https://cdn.jimuhaoke.com/2025/AutoCAD%E4%B8%89%E7%BB%B4%E6%9C%BA%E6%A2%B0%E9%9B%B6%E4%BB%B6%20(2).webp>)
 
 AutoCAD三维机械零件
 

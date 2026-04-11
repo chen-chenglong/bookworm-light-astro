@@ -9,6 +9,7 @@ authors: ["积木好课"]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%92%8C%E6%B8%B2%E6%9F%93.webp"
 ---
+
 本一对一教学是为了一个做家具建模的学员定制，以黑胡桃茶几为案例，使用AutoCAD进行家具三维建模和渲染全流程的案例演示，打通CAD精确家具建模和生产全流程技术。
 
 AutoCAD做家具的好处就是可以直接把做好的三维结构打散来看每一块木料的尺寸数据，而这些数据可以在生产中被用作加工的精确依据。
@@ -31,7 +32,7 @@ AutoCAD家具建模全流程
 
 案例完成的每一部分结构的三维建模，完成每一部分后就可以整体组合，因为这个建构是对称的，所以重复的位置不需要重复做，镜像即可，效率翻倍：
 
-![AutoCAD家具建模全流程](https://cdn.jimuhaoke.com/2025/AutoCAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%85%A8%E6%B5%81%E7%A8%8B%20(1).webp)
+![AutoCAD家具建模全流程](<https://cdn.jimuhaoke.com/2025/AutoCAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%85%A8%E6%B5%81%E7%A8%8B%20(1).webp>)
 
 AutoCAD家具建模全流程
 
@@ -39,7 +40,7 @@ AutoCAD家具建模全流程
 
 按照课程所讲渲染五步法，做一个整体家具渲染等轴测视角的渲染图：
 
-![AutoCAD家具建模全流程](https://cdn.jimuhaoke.com/2025/AutoCAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%85%A8%E6%B5%81%E7%A8%8B%20(2).webp)
+![AutoCAD家具建模全流程](<https://cdn.jimuhaoke.com/2025/AutoCAD%E5%AE%B6%E5%85%B7%E5%BB%BA%E6%A8%A1%E5%85%A8%E6%B5%81%E7%A8%8B%20(2).webp>)
 
 AutoCAD家具建模全流程
 

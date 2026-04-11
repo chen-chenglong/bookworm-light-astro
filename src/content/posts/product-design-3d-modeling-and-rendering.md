@@ -9,7 +9,8 @@ authors: ["积木好课""]
 draft: false
 image: "https://cdn.jimuhaoke.com/2025/%E6%B3%A1%E6%B3%A1%E6%9C%BA%E5%BB%BA%E6%A8%A1.webp"
 ---
-![AutoCAD产品渲染](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%20(1).webp)
+
+![AutoCAD产品渲染](<https://cdn.jimuhaoke.com/2025/AutoCAD%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%20(1).webp>)
 
 AutoCAD产品渲染
 
@@ -36,7 +37,7 @@ AutoCAD产品渲染
 
 根据二维尺寸绘制三维结构，使用实体+网格两种类型：
 
-![AutoCAD产品渲染](https://cdn.jimuhaoke.com/2025/AutoCAD%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%20(2).webp)
+![AutoCAD产品渲染](<https://cdn.jimuhaoke.com/2025/AutoCAD%E4%BA%A7%E5%93%81%E6%B8%B2%E6%9F%93%20(2).webp>)
 
 AutoCAD产品渲染
 
