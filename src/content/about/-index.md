@@ -1,6 +1,6 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
+title: "I’m 陈成龙"
+meta_title: "关于"
 image: "/images/author.png"
 draft: false
 
