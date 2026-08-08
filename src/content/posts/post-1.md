@@ -5,7 +5,6 @@ description: "自己的claude账号被封，看看能不能拯救一下，参考
 date: 2026-08-08T05:00:00Z
 image: "../../assets/images/claude-unban-guide.png"
 categories: ["Ai"]
-authors: ["陈成龙"]
 tags: ["claude", "Ai"]
 draft: false
 ---

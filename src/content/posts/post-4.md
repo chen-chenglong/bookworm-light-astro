@@ -5,7 +5,6 @@ description: "meta description"
 date: 2025-04-04T16:56:47+06:00
 image: "../../assets/images/claude-unban-guide.png"
 draft: false
-authors: ["Mark Dinn"]
 tags: ["Balloon", "Gas"]
 categories: ["Accessories"]
 ---

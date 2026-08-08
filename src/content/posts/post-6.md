@@ -5,7 +5,6 @@ description: "meta description"
 date: 2025-04-06T16:56:47+06:00
 image: "../../assets/images/claude-unban-guide.png"
 draft: false
-authors: ["Mark Dinn"]
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---

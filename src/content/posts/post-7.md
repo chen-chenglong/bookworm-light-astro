@@ -5,7 +5,6 @@ description: "meta description"
 date: 2025-04-07T05:00:00Z
 image: "../../assets/images/claude-unban-guide.png"
 categories: ["art"]
-authors: ["Mark Dinn"]
 tags: ["diy", "toy"]
 draft: false
 ---

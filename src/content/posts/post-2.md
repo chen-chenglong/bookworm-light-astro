@@ -5,7 +5,6 @@ description: "meta description"
 date: 2025-04-02T05:00:00Z
 image: "../../assets/images/claude-unban-guide.png"
 categories: ["development"]
-authors: ["John Doe"]
 tags: ["diy", "toy"]
 draft: false
 ---
