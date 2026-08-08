@@ -1,5 +1,5 @@
 ---
-title: 陈成龙
+title: chen
 meta_title: ""
 image: /images/authors/john-doe.jpg
 description: this is meta description
